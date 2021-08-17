@@ -6,11 +6,6 @@ import unittest
 import calculator
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
-        self.assertEqual(True, False)  # add assertion here
-
-
 class TestCalculator:
     def test_addition(self):
         assert 4 == calculator.add(2,2)
