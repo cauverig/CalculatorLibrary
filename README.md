@@ -1,6 +1,6 @@
 # Continuous Integration with Python and CircleCI
 
-I used CircleCI to learn continuous integration with Python.
+I used CircleCI to perform continuous integration with Python.
 
 Follow the step-by-step guide using CircleCI for Continuous Integration:
 ### 1. Understand the basic concepts
